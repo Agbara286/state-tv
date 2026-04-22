@@ -21,6 +21,8 @@ export default function Navbar() {
           <Link href="/category/politics" className="hover:text-blue-600 transition">Politics</Link>
           <Link href="/category/sports" className="hover:text-blue-600 transition">Sports</Link>
           <Link href="/category/entertainment" className="hover:text-blue-600 transition">Entertainment</Link>
+          <Link href="/category/tech" className="hover:text-blue-600 transition">Tech</Link>
+          <Link href="/category/crime" className="hover:text-blue-600 transition">Crime</Link>
         </div>
 
       </div>

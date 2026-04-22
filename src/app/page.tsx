@@ -23,10 +23,12 @@ export default async function Home() {
       
 
         {/* Category Rows */}
-        <CategoryRow title="Trending" articles={articles} />
         <CategoryRow title="Politics" articles={articles} />
+        <CategoryRow title="Crime" articles={articles} />
         <CategoryRow title="Sports" articles={articles} />
         <CategoryRow title="Entertainment" articles={articles} />
+        <CategoryRow title="Tech" articles={articles} />
+        <CategoryRow title="Business" articles={articles} />
 
       </main>
     </div>
